@@ -1,0 +1,11 @@
+reportlab
+beautifulsoup4
+pypdf
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+gorq
+rank-bm25
+langgraph
